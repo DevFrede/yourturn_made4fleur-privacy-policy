@@ -8,22 +8,22 @@ This app is built in good faith to respect your privacy and provide a secure, of
 
 Data Collection
 ===============
-The App does not collect any personal data.
-All information entered or generated within the App remains stored locally on the user’s device.
+The App does not collect personal data in the sense of transmitting, storing, or processing information outside the user’s device.
 
-The App does not collect:
-- Personal information
-- Usage data
-- Device identifiers
-- Location data
-- Contact information
-- Analytics or tracking data
+However, the App may store information locally on the device as part of its normal functionality.
+This locally stored data is used only within the App to display status, preferences, or user‑entered information.
 
-Data Storage
-============
-All data is stored locally on the device.
-No data is uploaded, transmitted, or synchronized to any server or third‑party service.
+No data is ever sent to the developer or to any third party.
 
+Local Data Storage
+==================
+All information created or entered in the App is stored exclusively on the user’s device.
+This includes any activity, settings, or content the user generates.
+- The data remains private to the user
+- The App does not upload or sync data
+- The App does not use cloud services
+- The App does not use external servers
+  
 If the user deletes the App, all locally stored data is removed automatically by the operating system.
 
 Data Sharing
